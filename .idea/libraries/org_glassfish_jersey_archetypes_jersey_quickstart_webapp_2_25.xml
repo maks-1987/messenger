@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.glassfish.jersey.archetypes:jersey-quickstart-webapp:2.25" type="repository">
+    <properties maven-id="org.glassfish.jersey.archetypes:jersey-quickstart-webapp:2.25" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-quickstart-webapp-2.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-quickstart-webapp-2.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
