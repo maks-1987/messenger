@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="org.glassfish.jersey.archetypes:jersey-quickstart-webapp:2.25" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.archetypes:jersey-quickstart-webapp:2.25" level="project" />
   </component>
 </module>
