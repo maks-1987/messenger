@@ -1,12 +1,26 @@
 <component name="libraryTable">
   <library name="org.glassfish.jersey.archetypes:jersey-quickstart-webapp:2.25" type="repository">
     <properties maven-id="org.glassfish.jersey.archetypes:jersey-quickstart-webapp:2.25" />
+    <ANNOTATIONS>
+      <root url="file://C:/Program Files (x86)/jaxrs-ri" />
+    </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/jersey-quickstart-webapp-2.25.jar!/" />
+      <root url="file://C:/Program Files (x86)/jaxrs-ri" />
+      <root url="file://C:/Program Files (x86)/jaxrs-ri" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="file://C:/Program Files (x86)/jaxrs-ri" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://C:/Program Files (x86)/jaxrs-ri" />
+    </NATIVE>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/lib/jersey-quickstart-webapp-2.25-sources.jar!/" />
+      <root url="file://C:/Program Files (x86)/jaxrs-ri" />
+      <root url="file://C:/Program Files (x86)/jaxrs-ri" />
     </SOURCES>
+    <jarDirectory url="file://C:/Program Files (x86)/jaxrs-ri" recursive="false" />
+    <jarDirectory url="file://C:/Program Files (x86)/jaxrs-ri" recursive="false" type="SOURCES" />
   </library>
 </component>
